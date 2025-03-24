@@ -1,4 +1,5 @@
-# About
+
+FORK# About
 Move Mouse is a simple piece of software that is designed to simulate user activity.
 
 Originally designed to prevent Windows from locking the user session or going to sleep, Move Mouse can be deployed in a wide range of [Scenarios](https://github.com/sw3103/movemouse/wiki/Scenarios).
